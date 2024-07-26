@@ -96,7 +96,7 @@ Pronto agora você ja pode logar no <b>"Easy Builder"</b> sem problemas clicando
 
                                                 Feito o cadastro Parabens!!🥇🎉
 
-<div id='id-hands'/>
+<div id='id-hands'>
  
 ## É hora de por a mão na massa 🖐️
 
